@@ -1,0 +1,314 @@
+symbol,name,sector,list_source
+EWZ,iShares MSCI Brazil ETF,ETF,nicks_list
+RDDT,Reddit Inc,Technology,nicks_list
+RUA.V,Rubicon Organics,Cannabis,nicks_list
+TNZ.TO,Tenaz Energy,Energy,nicks_list
+JAGU,Jaguar Health,Biotech,nicks_list
+LQD,iShares iBoxx Investment Grade,ETF,nicks_list
+HYG,iShares iBoxx High Yield,ETF,nicks_list
+AG,First Majestic Silver,Materials,nicks_list
+CRM,Salesforce,Technology,nicks_list
+EL,Estee Lauder,Consumer,nicks_list
+ELF,e.l.f. Beauty,Consumer,nicks_list
+GFS,GlobalFoundries,Semiconductors,nicks_list
+IWM,iShares Russell 2000,ETF,nicks_list
+EQT,EQT Corporation,Energy,nicks_list
+KOLD,ProShares UltraShort Bloomberg Natural Gas,ETF,nicks_list
+AVDV,Avantis Intl Small Cap Value,ETF,nicks_list
+BOIL,ProShares Ultra Bloomberg Natural Gas,ETF,nicks_list
+FNGU,MicroSectors FANG+ Index 3X,ETF,nicks_list
+BITF,Bitfarms Ltd,Crypto,nicks_list
+IDR,Idaho Strategic Resources,Materials,nicks_list
+KAP.IL,ICL Group,Materials,nicks_list
+BHP,BHP Group,Materials,nicks_list
+SGML,Sigma Lithium,Materials,nicks_list
+TTD,The Trade Desk,Technology,nicks_list
+ODV,Osisko Development,Materials,nicks_list
+USAGX,USAA Precious Metals Fund,ETF,nicks_list
+AMRQ.V,American Eagle Gold,Materials,nicks_list
+MGA.TO,Mega Uranium,Uranium,nicks_list
+KULR,KULR Technology,Technology,nicks_list
+MU,Micron Technology,Semiconductors,nicks_list
+CAPT,Captivision Inc,Technology,nicks_list
+FN,Fabrinet,Technology,nicks_list
+SHLD,Shield Therapeutics,Biotech,nicks_list
+SMH,VanEck Semiconductor ETF,ETF,nicks_list
+NILI.V,Surge Battery Metals,Materials,nicks_list
+RELL,Richardson Electronics,Technology,nicks_list
+PSIL,AdvisorShares Psychedelics ETF,ETF,nicks_list
+XTRA.TO,Xtra-Gold Resources,Materials,nicks_list
+MGROF,Manganese X Energy,Materials,nicks_list
+GRID.TO,Tantalus Systems,Technology,nicks_list
+SRRK,Scholar Rock Holding,Biotech,nicks_list
+STX,Seagate Technology,Technology,nicks_list
+FLY,Fly Leasing,Industrial,nicks_list
+CDE,Coeur Mining,Materials,nicks_list
+XLE,Energy Select Sector SPDR,ETF,nicks_list
+BTU,Peabody Energy,Energy,nicks_list
+FQVLF,First Quantum Minerals,Materials,nicks_list
+MIR,Mirion Technologies,Industrial,nicks_list
+SETM,Sprott Energy Transition Materials,ETF,nicks_list
+UEC,Uranium Energy Corp,Uranium,nicks_list
+DNN,Denison Mines,Uranium,nicks_list
+FCX,Freeport-McMoRan,Materials,nicks_list
+DOCU,DocuSign,Technology,nicks_list
+INSM,Insmed Incorporated,Biotech,nicks_list
+CPNG,Coupang Inc,Technology,nicks_list
+NU,Nu Holdings,Financials,nicks_list
+MELI,MercadoLibre,Technology,nicks_list
+SE,Sea Limited,Technology,nicks_list
+SIE.DE,Siemens AG,Industrial,nicks_list
+ETN,Eaton Corporation,Industrial,nicks_list
+HUBB,Hubbell Incorporated,Industrial,nicks_list
+AER,AerCap Holdings,Industrial,nicks_list
+FSLR,First Solar,Energy,nicks_list
+SLB,Schlumberger,Energy,nicks_list
+HWM,Howmet Aerospace,Industrial,nicks_list
+VMC,Vulcan Materials,Materials,nicks_list
+INTC,Intel Corporation,Semiconductors,nicks_list
+AWK,American Water Works,Utilities,nicks_list
+CVX,Chevron Corporation,Energy,nicks_list
+XOM,Exxon Mobil,Energy,nicks_list
+HAL,Halliburton,Energy,nicks_list
+FANG,Diamondback Energy,Energy,nicks_list
+OXY,Occidental Petroleum,Energy,nicks_list
+PANW,Palo Alto Networks,Cybersecurity,nicks_list
+CRWD,CrowdStrike,Cybersecurity,nicks_list
+PLTR,Palantir Technologies,Technology,nicks_list
+ARKX,ARK Space Exploration ETF,ETF,nicks_list
+GROY,Gold Royalty Corp,Materials,nicks_list
+TXG.TO,Torex Gold Resources,Materials,nicks_list
+SVM,Silvercorp Metals,Materials,nicks_list
+DUOL,Duolingo,Technology,nicks_list
+LYSDY,Lynas Rare Earths,Materials,nicks_list
+ALB,Albemarle Corporation,Materials,nicks_list
+ALM,Alma Metals,Materials,nicks_list
+VALE,Vale S.A.,Materials,nicks_list
+NMG,Nouveau Monde Graphite,Materials,nicks_list
+SYR.AX,Syrah Resources,Materials,nicks_list
+GLTR,abrdn Physical Precious Metals,ETF,nicks_list
+PALL,abrdn Physical Palladium,ETF,nicks_list
+PPLT,abrdn Physical Platinum,ETF,nicks_list
+CPXR,Global X Copper Miners,ETF,nicks_list
+ERX,Direxion Daily Energy Bull 2X,ETF,nicks_list
+DBB,Invesco DB Base Metals Fund,ETF,nicks_list
+SPXU,ProShares UltraPro Short S&P500,ETF,nicks_list
+SQQQ,ProShares UltraPro Short QQQ,ETF,nicks_list
+UPRO,ProShares UltraPro S&P500,ETF,nicks_list
+AGQ,ProShares Ultra Silver,ETF,nicks_list
+TQQQ,ProShares UltraPro QQQ,ETF,nicks_list
+UGL,ProShares Ultra Gold,ETF,nicks_list
+TM,Toyota Motor,Consumer,nicks_list
+SCCO,Southern Copper,Materials,nicks_list
+VNP.TO,5N Plus,Materials,nicks_list
+APD,Air Products,Materials,nicks_list
+LNG,Cheniere Energy,Energy,nicks_list
+MATX,Matson Inc,Industrial,nicks_list
+GD,General Dynamics,Defense,nicks_list
+NOC,Northrop Grumman,Defense,nicks_list
+LMT,Lockheed Martin,Defense,nicks_list
+DMEHF,Desert Metals,Materials,nicks_list
+RHCCF,RHC Capital,Materials,nicks_list
+BE,Bloom Energy,Energy,nicks_list
+PLUG,Plug Power,Energy,nicks_list
+FLNC,Fluence Energy,Energy,nicks_list
+SMR,NuScale Power,Nuclear,nicks_list
+BEAM,Beam Therapeutics,Biotech,nicks_list
+IONS,Ionis Pharmaceuticals,Biotech,nicks_list
+SRPT,Sarepta Therapeutics,Biotech,nicks_list
+KDK,Kodiak Sciences,Biotech,nicks_list
+CUPPF,Copper Fox Metals,Materials,nicks_list
+SBSW,Sibanye Stillwater,Materials,nicks_list
+LHX,L3Harris Technologies,Defense,nicks_list
+KEYS,Keysight Technologies,Technology,nicks_list
+FCEL,FuelCell Energy,Energy,nicks_list
+TMQ,Trilogy Metals,Materials,nicks_list
+FEAM,5E Advanced Materials,Materials,nicks_list
+IOVA,Iovance Biotherapeutics,Biotech,nicks_list
+HYSR,SunHydrogen Inc,Energy,nicks_list
+CAN,Canaan Inc,Technology,nicks_list
+ANGPY,AngloGold Ashanti,Materials,nicks_list
+HL,Hecla Mining,Materials,nicks_list
+OKLO,Oklo Inc,Nuclear,nicks_list
+FSM,Fortuna Silver Mines,Materials,nicks_list
+SLS,SELLAS Life Sciences,Biotech,nicks_list
+ARGYF,Argosy Minerals,Materials,nicks_list
+DY,Dycom Industries,Industrial,nicks_list
+MRNA,Moderna,Biotech,nicks_list
+CAPS,Captivision Inc,Technology,nicks_list
+NFLX,Netflix,Technology,nicks_list
+GIPR,Generation Income Properties,Real Estate,nicks_list
+TROX,Tronox Holdings,Materials,nicks_list
+BAER,Bridger Aerospace,Industrial,nicks_list
+CETX,Cemtrex Inc,Technology,nicks_list
+CLS,Celestica Inc,Technology,nicks_list
+PPTA,Perpetua Resources,Materials,nicks_list
+SDST,Stardust Power,Materials,nicks_list
+TER,Teradyne,Technology,nicks_list
+DE,Deere & Company,Industrial,nicks_list
+ROK,Rockwell Automation,Industrial,nicks_list
+BBAI,BigBear.ai Holdings,Technology,nicks_list
+ACMR,ACM Research,Semiconductors,nicks_list
+POET,POET Technologies,Semiconductors,nicks_list
+IREN,Iris Energy,Crypto,nicks_list
+NGD,New Gold Inc,Materials,nicks_list
+EXK,Endeavour Silver,Materials,nicks_list
+QTTB,QT Imaging Holdings,Healthcare,nicks_list
+HYMC,Hycroft Mining,Materials,nicks_list
+PNG.V,Kraken Energy,Uranium,nicks_list
+SCD.V,SCD Energy,Energy,nicks_list
+SCHG,Schwab US Large-Cap Growth,ETF,nicks_list
+ASX,ASE Technology,Semiconductors,nicks_list
+MTSI,MACOM Technology,Semiconductors,nicks_list
+HOVR,New Vista Acquisition,SPAC,nicks_list
+ASST,Asset Entities,Technology,nicks_list
+ONDS,Ondas Holdings,Technology,nicks_list
+CAKE,Cheesecake Factory,Consumer,nicks_list
+QQQM,Invesco NASDAQ 100,ETF,nicks_list
+DEFN.V,Defense Metals,Materials,nicks_list
+MSAI,MultiSensor AI,Technology,nicks_list
+DGX,Quest Diagnostics,Healthcare,nicks_list
+IMSR,Impinj Inc,Technology,nicks_list
+NUAI,NuScale Power,Nuclear,nicks_list
+TE,Tidewater Energy,Energy,nicks_list
+NBIS,Nebius Group,Technology,nicks_list
+NVO,Novo Nordisk,Healthcare,nicks_list
+BEP,Brookfield Renewable,Energy,nicks_list
+DMX.V,District Metals,Materials,nicks_list
+GRRR,Gorilla Technology,Technology,nicks_list
+NVTS,Navitas Semiconductor,Semiconductors,nicks_list
+APLD,Applied Digital,Technology,nicks_list
+NURS.V,Nurexone Biologic,Biotech,nicks_list
+VANI,Vivani Medical,Biotech,nicks_list
+USAS,Americas Gold and Silver,Materials,nicks_list
+SOAR,Volato Group,Industrial,nicks_list
+ABSI,Absci Corporation,Biotech,nicks_list
+DVLT,Datavault AI,Technology,nicks_list
+WGRX,Wright Medical,Healthcare,nicks_list
+TMF,Direxion 20+ Year Treasury Bull,ETF,nicks_list
+BURU,Nuburu Inc,Technology,nicks_list
+EULIF,European Lithium,Materials,nicks_list
+ALRDF,Allied Resources,Materials,nicks_list
+LEU,Centrus Energy,Uranium,nicks_list
+NOURF,Nova Uranium,Uranium,nicks_list
+HGRAF,Hercules Gold,Materials,nicks_list
+RKLB,Rocket Lab USA,Space,nicks_list
+ATNI,ATN International,Telecom,nicks_list
+APXC.CN,Apex Copper,Materials,nicks_list
+PLSR.V,Pulsar Helium,Energy,nicks_list
+FWEDF,Fireweed Metals,Materials,nicks_list
+TMRC,Texas Mineral Resources,Materials,nicks_list
+FTMDF,Fortune Minerals,Materials,nicks_list
+ASMMF,Assore Metals,Materials,nicks_list
+NAK,Northern Dynasty Minerals,Materials,nicks_list
+CBBHF,Cobalt Blue Holdings,Materials,nicks_list
+UCU.V,Ucore Rare Metals,Materials,nicks_list
+MTRN,Materion Corporation,Materials,nicks_list
+AQMS,Aqua Metals,Materials,nicks_list
+STI,Solidion Technology,Technology,nicks_list
+ELBM,Electra Battery Materials,Materials,nicks_list
+SYAAF,Sayona Mining,Materials,nicks_list
+AMY.V,American Manganese,Materials,nicks_list
+AVLNF,Avalon Advanced Materials,Materials,nicks_list
+CTVFF,Canada Tungsten,Materials,nicks_list
+ILKAF,ILiKA PLC,Technology,nicks_list
+ARAFF,Arafura Rare Earths,Materials,nicks_list
+COB.AX,Cobalt Blue,Materials,nicks_list
+ASPI,ASP Isotopes,Nuclear,nicks_list
+NALG,Andean Precious Metals,Materials,nicks_list
+XTPT,XTP Industrial,Industrial,nicks_list
+EOSE,Eos Energy Enterprises,Energy,nicks_list
+GAMA.V,Gama Explorations,Materials,nicks_list
+W.V,Wildpack Beverage,Consumer,nicks_list
+ARXRF,Arx Resources,Materials,nicks_list
+REMX,VanEck Rare Earth/Strategic Metals,ETF,nicks_list
+DFMTF,Defense Minerals,Materials,nicks_list
+APAAF,IsoEnergy Ltd,Uranium,nicks_list
+METC,Ramaco Resources,Energy,nicks_list
+ARSMF,Artemis Gold,Materials,nicks_list
+DTREF,Dreadnought Resources,Materials,nicks_list
+WWR,Westwater Resources,Materials,nicks_list
+TUNGF,Almonty Industries,Materials,nicks_list
+CRML,Critical Metals,Materials,nicks_list
+AREC,American Resources,Materials,nicks_list
+UAMY,United States Antimony,Materials,nicks_list
+NVX,NOVONIX Limited,Materials,nicks_list
+NB,NioCorp Developments,Materials,nicks_list
+USAR,USA Rare Earth,Materials,nicks_list
+UUUU,Energy Fuels,Uranium,nicks_list
+MP,MP Materials,Materials,nicks_list
+ABAT,American Battery Technology,Materials,nicks_list
+GWH,ESS Inc,Energy,nicks_list
+REEMF,Rare Element Resources,Materials,nicks_list
+GPHOF,Graphene Manufacturing,Materials,nicks_list
+LAC,Lithium Americas,Materials,nicks_list
+UURAF,Ur-Energy,Uranium,nicks_list
+TMC,The Metals Company,Materials,nicks_list
+CRCL,Circle Holdings,Crypto,nicks_list
+MSTR,MicroStrategy,Crypto,nicks_list
+NIQ,NielsenIQ,Technology,nicks_list
+NEXT,NextDecade Corporation,Energy,nicks_list
+RR,Richter Minerals,Materials,nicks_list
+AGIX,SingularityNET,AI,nicks_list
+CRWV,CoreWeave,Technology,nicks_list
+QBTS,D-Wave Quantum,Quantum,nicks_list
+QUBT,Quantum Computing,Quantum,nicks_list
+RGTI,Rigetti Computing,Quantum,nicks_list
+RZLV,Rezolve AI,AI,nicks_list
+COMP,Compass Inc,Real Estate,nicks_list
+UNH,UnitedHealth Group,Healthcare,nicks_list
+O,Realty Income,Real Estate,nicks_list
+KLAC,KLA Corporation,Semiconductors,nicks_list
+BYD,BYD Company,Consumer,nicks_list
+AVUV,Avantis US Small Cap Value,ETF,nicks_list
+SSO,ProShares Ultra S&P500,ETF,nicks_list
+QQQ,Invesco QQQ Trust,ETF,nicks_list
+WWD,Woodward Inc,Industrial,nicks_list
+TEVA,Teva Pharmaceutical,Healthcare,nicks_list
+NTRA,Natera Inc,Healthcare,nicks_list
+SCHO,Schwab Short-Term US Treasury,ETF,nicks_list
+BIL,SPDR Bloomberg 1-3 Month T-Bill,ETF,nicks_list
+CCJ,Cameco Corporation,Uranium,nicks_list
+GSM,Ferroglobe PLC,Materials,nicks_list
+ASTS,AST SpaceMobile,Space,nicks_list
+RDW,Redwire Corporation,Space,nicks_list
+BKSY,BlackSky Technology,Space,nicks_list
+AMD,Advanced Micro Devices,Semiconductors,nicks_list
+KO,Coca-Cola,Consumer,nicks_list
+IONQ,IonQ Inc,Quantum,nicks_list
+SMCI,Super Micro Computer,Technology,nicks_list
+DDOG,Datadog Inc,Technology,nicks_list
+VRSN,VeriSign Inc,Technology,nicks_list
+ARM,Arm Holdings,Semiconductors,nicks_list
+CDNS,Cadence Design Systems,Technology,nicks_list
+SOUN,SoundHound AI,AI,nicks_list
+SNOW,Snowflake Inc,Technology,nicks_list
+SNPS,Synopsys Inc,Technology,nicks_list
+VRT,Vertiv Holdings,Industrial,nicks_list
+LRCX,Lam Research,Semiconductors,nicks_list
+AMAT,Applied Materials,Semiconductors,nicks_list
+RXRX,Recursion Pharmaceuticals,Biotech,nicks_list
+MRVL,Marvell Technology,Semiconductors,nicks_list
+NOW,ServiceNow,Technology,nicks_list
+OPEN,Opendoor Technologies,Real Estate,nicks_list
+GEV,GE Vernova,Energy,nicks_list
+CSCO,Cisco Systems,Technology,nicks_list
+ANET,Arista Networks,Technology,nicks_list
+DLR,Digital Realty Trust,Real Estate,nicks_list
+ADBE,Adobe Inc,Technology,nicks_list
+ORCL,Oracle Corporation,Technology,nicks_list
+ASML,ASML Holding,Semiconductors,nicks_list
+SYK,Stryker Corporation,Healthcare,nicks_list
+WM,Waste Management,Industrial,nicks_list
+ROL,Rollins Inc,Industrial,nicks_list
+MAGS,Roundhill Magnificent Seven,ETF,nicks_list
+AVGO,Broadcom Inc,Semiconductors,nicks_list
+TSM,Taiwan Semiconductor,Semiconductors,nicks_list
+VOO,Vanguard S&P 500,ETF,nicks_list
+TSLA,Tesla Inc,Consumer,nicks_list
+AAPL,Apple Inc,Technology,nicks_list
+GOOG,Alphabet Inc,Technology,nicks_list
+NVDA,NVIDIA Corporation,Semiconductors,nicks_list
+AMZN,Amazon.com,Technology,nicks_list
+MSFT,Microsoft Corporation,Technology,nicks_list
+META,Meta Platforms,Technology,nicks_list
