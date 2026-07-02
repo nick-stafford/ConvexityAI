@@ -10,7 +10,10 @@ st.set_page_config(
     page_title="Convexity AI",
     page_icon="📈",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
+    menu_items={
+        "About": "Convexity AI — Momentum Stock Scanner & Research Platform.\n\nDeveloped by Nick Stafford."
+    }
 )
 
 # Import components
@@ -486,6 +489,16 @@ with st.sidebar:
     st.markdown(f"**Stocks in Universe:** {len(all_stocks)}")
     st.markdown(f"**Tier 1 Alerts:** {len(tier1)}")
     st.markdown(f"**Tier 2 Alerts:** {len(tier2)}")
+
+    st.divider()
+
+    # Subtle ownership / attribution
+    st.markdown(
+        "<div style='text-align:center; opacity:0.55; font-size:0.8rem; "
+        "letter-spacing:0.02em; line-height:1.5;'>"
+        "Developed by<br><b>Nick Stafford</b></div>",
+        unsafe_allow_html=True,
+    )
 
 
 # Main content area
