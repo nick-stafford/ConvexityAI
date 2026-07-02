@@ -502,6 +502,30 @@ with st.sidebar:
 
 
 # Main content area
+
+# Persistent ownership credit - visible on every page, to every viewer
+st.markdown(
+    """
+    <style>
+      #convexity-credit {
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0.4rem;
+        z-index: 1000;
+        font-size: 0.74rem;
+        letter-spacing: 0.03em;
+        opacity: 0.6;
+        pointer-events: none;
+        white-space: nowrap;
+      }
+      #convexity-credit b { font-weight: 600; }
+    </style>
+    <div id="convexity-credit">Developed by <b>Nick Stafford</b></div>
+    """,
+    unsafe_allow_html=True,
+)
+
 if st.session_state.current_page == 'Stock Detail' and st.session_state.selected_stock:
     render_stock_detail(st.session_state.selected_stock)
 
