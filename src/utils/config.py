@@ -13,6 +13,15 @@ load_dotenv(ENV_PATH)
 # API Keys
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
+# On Streamlit Community Cloud there is no .env file; secrets live in
+# st.secrets. Fall back to it so the key resolves in the hosted app.
+if not GROQ_API_KEY:
+    try:
+        import streamlit as st
+        GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", "")
+    except Exception:
+        pass
+
 # Email Configuration
 EMAIL_ENABLED = os.getenv("EMAIL_ENABLED", "false").lower() == "true"
 EMAIL_SMTP_SERVER = os.getenv("EMAIL_SMTP_SERVER", "smtp.gmail.com")

@@ -1,4 +1,4 @@
-# Convexity AI - Dependencies
+# Convexity AI - Dependencies (Streamlit Community Cloud)
 
 # UI
 streamlit>=1.30.0
@@ -9,15 +9,9 @@ yfinance>=0.2.36
 pandas>=2.0.0
 numpy>=1.24.0
 
-# Database
-lancedb>=0.4.0
-# sqlite3 is built into Python
-
 # AI
 groq>=0.4.0
-sentence-transformers>=2.2.0
-google-generativeai>=0.3.0  # For Nano Banana image generation
-stitch-ai>=0.3.0            # For AI memory management
+google-generativeai>=0.3.0  # optional: image generation, only active if GEMINI_API_KEY is set
 
 # Utilities
 python-dotenv>=1.0.0
@@ -25,5 +19,6 @@ requests>=2.31.0
 beautifulsoup4>=4.12.0
 schedule>=1.2.0
 
-# Optional (for email)
-# smtplib is built into Python
+# NOTE: sentence-transformers, lancedb, and stitch-ai were removed.
+# They pulled in torch (~2GB) and exceeded the free-tier build, and nothing
+# in the codebase actually imports them.
